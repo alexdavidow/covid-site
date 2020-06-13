@@ -1,0 +1,9 @@
+name: covid-site
+recipe: drupal8
+config:
+  webroot: web
+  php: '7.3'
+  database: mysql:5.7
+  drupal: true
+  drush: ^9
+  xdebug: false

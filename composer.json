@@ -22,7 +22,12 @@
         "drupal/core-composer-scaffold": "^9",
         "drupal/core-project-message": "^9",
         "drupal/core-recommended": "^9",
+        "drupal/embed": "^1.4",
+        "drupal/entity_browser": "^2.5",
+        "drupal/entity_embed": "^1.1",
+        "drupal/iframe": "^2.6",
         "drupal/pathauto": "^1.8",
+        "drupal/url_embed": "^1.0@beta",
         "drush/drush": "^10.2"
     },
     "conflict": {
